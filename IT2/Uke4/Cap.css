@@ -1,0 +1,33 @@
+﻿body {
+    background-color:#c82828;
+    overflow: hidden;
+}
+
+.logo {
+    position: absolute;
+    top: 38%;
+    left: 38%; 
+    animation: 10s ease intro forwards alternate;
+}
+
+@keyframes intro {
+    0% {
+        transform: scale(0.1);
+        width: 20em;
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.4);
+        width: 20em;
+        opacity: 1;
+    }
+    60% {
+        transform: scale(1.4);
+        width: 20em;
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0.1);
+        opacity: 0;
+    }
+}

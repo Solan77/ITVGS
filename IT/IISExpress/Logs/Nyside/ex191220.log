@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-12-20 18:17:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-20 18:17:03 ::1 GET /HtmlPage.html - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 - 200 0 0 86
+2019-12-20 18:17:03 ::1 GET /Bilder/BG1.jpg - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 61
+2019-12-20 18:17:03 ::1 GET /StyleSheet.css - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 67
+2019-12-20 18:17:03 ::1 GET /Bilder/gYCyRTw.jpg - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 81
+2019-12-20 18:17:03 ::1 GET /Bilder/treesfullofsnow1920x1080wallpaper3142_1.jpg - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 108
+2019-12-20 18:17:03 ::1 GET /Bilder/8156_download-wallpapers-snowflake-in-the-snow-1920-x-1080-hdtv-1080p_1920x1080_h.jpg - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 91
+2019-12-20 18:17:03 ::1 GET /Bilder/mountain_river_snow_nature_92721_1920x1080.jpg - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 218
+2019-12-20 18:17:04 ::1 GET /Bilder/uten+navn.png - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 907
+2019-12-20 18:17:04 ::1 GET /Bilder/uten+navn1.png - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 896
+2019-12-20 18:17:04 ::1 GET /favicon.ico - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 404 0 2 9
+2019-12-20 18:17:10 ::1 GET /Index.html - 59501 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:59501/HtmlPage.html 200 0 0 31

@@ -1,0 +1,57 @@
+﻿body {
+    /* Bruk denne siden
+       http://www.dreamtemplate.com/dreamcodes/documentation/background_images.html
+    */
+    background: #295675 url('Filer/bakgrunn.jpg') no-repeat center top;
+    font-family: 'Trebuchet MS';
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #808080;
+}
+
+.ramme {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.venstre {
+    width: 60%;
+}
+
+.hoyre {
+    width: 35%;
+}
+
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+iframe {
+    width: 100%;
+    height: 600px;
+}

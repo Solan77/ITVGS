@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="nb_NO" version="6.11.0" title="Shotcut version 18.10.08" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/grisebinge.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d6a5a238ae4a62921c4e4811c65f7d8a</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:02:27,000">
+    <property name="length">4411</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Jingle Bells (Instrumental).mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">3163a28d21d442be3090d60579141e25</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Pyntgrisen.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">103fe0372ba5dd3e009ac749991f6e65</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Pønkerpig.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">37282aed4d496471a33ff29b1cb55c73</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/rudolfgris.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">3d47b47efa96ae1b019a603e8f035c90</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00,000" out="00:01:22,833">
+    <property name="length">2486</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Sleigh Bells Christmas Sounds SOUND EFFECT freesound.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">7579a2f6d4af1e079a36ca25c34b978f</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00,000" out="00:04:26,000">
+    <property name="length">7981</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Wham! - Last Christmas (Instrumental).mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">ebabb31dfcd9102f97eb2c324ad69aea</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 18.10.08">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00,000" out="00:00:03,967"/>
+    <entry producer="producer1" in="00:00:00,000" out="00:02:27,000"/>
+    <entry producer="producer2" in="00:00:00,000" out="00:00:03,967"/>
+    <entry producer="producer3" in="00:00:00,000" out="00:00:03,967"/>
+    <entry producer="producer4" in="00:00:00,000" out="00:00:03,967"/>
+    <entry producer="producer5" in="00:00:00,000" out="00:01:22,833"/>
+    <entry producer="producer6" in="00:00:00,000" out="00:04:26,000"/>
+  </playlist>
+  <producer id="black" in="00:00:00,000" out="00:00:24,867">
+    <property name="length">747</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00,000" out="00:00:24,867"/>
+  </playlist>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/gardin.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e054549b726b7b7eb3b58f446e50273d</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter0" out="00:00:01,967">
+      <property name="argument">En jule favoritt 
+fra Niadar</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">540</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00,000</property>
+      <property name="shotcut:animOut">00:00:00,000</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter1" out="00:00:01,967">
+      <property name="start">1</property>
+      <property name="level">00:00:00,000=0;00:00:00,600=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">19</property>
+    </filter>
+    <filter id="filter2" out="00:00:01,967">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00,000=-60;00:00:00,600=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">19</property>
+    </filter>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/gardinen.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">cb8eabb398d57c6709ea4e278c26cc31</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Rudolf.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">78dd750c4726aa7b74bf44cc92d46802</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,300">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer8" in="00:00:01,667" out="00:00:01,967"/>
+    <track producer="producer9" in="00:00:00,000" out="00:00:00,300"/>
+    <transition id="transition0" out="00:00:00,300">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1" out="00:00:00,300">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/rudolfgris.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">3d47b47efa96ae1b019a603e8f035c90</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,333">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer9" in="00:00:01,967" out="00:00:02,300"/>
+    <track producer="producer10" in="00:00:00,833" out="00:00:01,167"/>
+    <transition id="transition2" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/pønker.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">9f6f161d511af3b114b1f671e87df04b</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor2" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,367">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer10" in="00:00:02,800" out="00:00:03,167"/>
+    <track producer="producer11" in="00:00:00,000" out="00:00:00,367"/>
+    <transition id="transition4" out="00:00:00,367">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition5" out="00:00:00,367">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Pønkerpig.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">37282aed4d496471a33ff29b1cb55c73</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor3" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,333">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer11" in="00:00:02,033" out="00:00:02,367"/>
+    <track producer="producer12" in="00:00:00,433" out="00:00:00,767"/>
+    <transition id="transition6" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition7" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/pynte.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8a3faab3ee3e3b5baf383c62bce34bc6</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor4" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,300">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer12" in="00:00:01,967" out="00:00:02,267"/>
+    <track producer="producer13" in="00:00:00,000" out="00:00:00,300"/>
+    <transition id="transition8" out="00:00:00,300">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition9" out="00:00:00,300">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Pyntgrisen.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">103fe0372ba5dd3e009ac749991f6e65</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor5" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,333">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer13" in="00:00:03,633" out="00:00:03,967"/>
+    <track producer="producer14" in="00:00:00,000" out="00:00:00,333"/>
+    <transition id="transition10" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition11" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Gris.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e8619551f270a5177cece3efe2b5901e</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor6" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,333">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer14" in="00:00:02,333" out="00:00:02,667"/>
+    <track producer="producer15" in="00:00:00,000" out="00:00:00,333"/>
+    <transition id="transition12" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition13" out="00:00:00,333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">432000</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/grisebinge.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d6a5a238ae4a62921c4e4811c65f7d8a</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor7" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,300">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer15" in="00:00:02,367" out="00:00:02,667"/>
+    <track producer="producer16" in="00:00:00,000" out="00:00:00,300"/>
+    <transition id="transition14" out="00:00:00,300">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition15" out="00:00:00,300">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer17" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,967">
+    <property name="length">04:00:00:00</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Ikke navngitt.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">5ba45918a032afd68ee8fc684fda2838</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter3" out="00:00:01,967">
+      <property name="argument">Laget av: Birk Gundersen</property>
+      <property name="geometry">00:00:01,000=54 221 1825 568 1;00:00:01,967=0 1080 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00,000</property>
+      <property name="shotcut:animOut">00:00:01,000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer7" in="00:00:00,000" out="00:00:01,967"/>
+    <entry producer="producer8" in="00:00:00,000" out="00:00:01,967"/>
+    <entry producer="tractor0" in="00:00:00,000" out="00:00:00,300"/>
+    <entry producer="producer9" in="00:00:00,333" out="00:00:02,300"/>
+    <entry producer="tractor1" in="00:00:00,000" out="00:00:00,333"/>
+    <entry producer="producer10" in="00:00:01,200" out="00:00:03,167"/>
+    <entry producer="tractor2" in="00:00:00,000" out="00:00:00,367"/>
+    <entry producer="producer11" in="00:00:00,400" out="00:00:02,367"/>
+    <entry producer="tractor3" in="00:00:00,000" out="00:00:00,333"/>
+    <entry producer="producer12" in="00:00:00,300" out="00:00:02,267"/>
+    <entry producer="tractor4" in="00:00:00,000" out="00:00:00,300"/>
+    <entry producer="producer13" in="00:00:02,000" out="00:00:03,967"/>
+    <entry producer="tractor5" in="00:00:00,000" out="00:00:00,333"/>
+    <entry producer="producer14" in="00:00:00,367" out="00:00:02,300"/>
+    <entry producer="tractor6" in="00:00:00,000" out="00:00:00,333"/>
+    <entry producer="producer15" in="00:00:00,367" out="00:00:02,333"/>
+    <entry producer="tractor7" in="00:00:00,000" out="00:00:00,300"/>
+    <entry producer="producer16" in="00:00:00,333" out="00:00:02,300"/>
+    <blank length="00:00:00,033"/>
+    <entry producer="producer17" in="00:00:00,000" out="00:00:01,967"/>
+    <filter id="filter4" out="00:00:24,867">
+      <property name="argument">Laget av: Birk Gundersen </property>
+      <property name="geometry">00:00:00,000=0 0 1920 1080 1;00:00:22,333=0 0 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:22,367</property>
+      <property name="shotcut:animOut">00:00:00,000</property>
+      <property name="disable">1</property>
+    </filter>
+  </playlist>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00,000" out="00:01:22,833">
+    <property name="length">2486</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Sleigh Bells Christmas Sounds SOUND EFFECT freesound.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">7579a2f6d4af1e079a36ca25c34b978f</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Sleigh Bells Christmas Sounds SOUND EFFECT freesound.mp3</property>
+    <property name="shotcut:detail">C:\Users\BirGun01\Documents\1b\Sleigh Bells Christmas Sounds SOUND EFFECT freesound.mp3</property>
+  </producer>
+  <producer id="producer19" title="Anonymous Submission" in="00:00:00,000" out="00:04:26,000">
+    <property name="length">7981</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Wham! - Last Christmas (Instrumental).mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">ebabb31dfcd9102f97eb2c324ad69aea</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Wham! - Last Christmas (Instrumental).mp3</property>
+    <property name="shotcut:detail">C:\Users\BirGun01\Documents\1b\Wham! - Last Christmas (Instrumental).mp3</property>
+  </producer>
+  <producer id="producer20" title="Anonymous Submission" in="00:00:00,000" out="00:04:26,000">
+    <property name="length">7981</property>
+    <property name="eof">pause</property>
+    <property name="resource">1b/Wham! - Last Christmas (Instrumental).mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">ebabb31dfcd9102f97eb2c324ad69aea</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Wham! - Last Christmas (Instrumental).mp3</property>
+    <property name="shotcut:detail">C:\Users\BirGun01\Documents\1b\Wham! - Last Christmas (Instrumental).mp3</property>
+    <filter id="filter5" in="00:00:20,767" out="00:00:22,767">
+      <property name="argument">Laget av: Birk Gundersen</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00,000</property>
+      <property name="shotcut:animOut">00:00:00,000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer18" in="00:00:01,200" out="00:00:04,333"/>
+    <entry producer="producer19" in="00:00:01,067" out="00:00:20,733"/>
+    <entry producer="producer20" in="00:00:20,767" out="00:00:22,767"/>
+  </playlist>
+  <tractor id="tractor8" title="Shotcut version 18.10.08" global_feed="1" in="00:00:00,000" out="00:00:24,867">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition16">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition17">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition18">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

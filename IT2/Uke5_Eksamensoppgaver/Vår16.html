@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="StyleSheet.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <script src="JavaScript.js"></script>
+
+    <div class="bildeboks">
+        <div class="bilde">
+            <div class="tall">1 / 4</div>
+            <img src="Bilder/Vinterpalasset_St_Petersburg.jpg">
+        </div>
+
+        <div class="bilde">
+            <div class="tall">2 / 4</div>
+            <img src="Bilder/Roma.jpg">
+        </div>
+
+        <div class="bilde">
+            <div class="tall">3 / 4</div>
+            <div class="video">
+                <video controls="controls" autoplay loop>
+                    <source src="Bilder/Romavideo.mp4" type="video/mp4" />
+                </video>
+            </div>
+
+        </div>
+
+        <div class="bilde">
+            <div class="tall">4 / 4</div>
+            <a href="spors.aspx">
+                <img src="Bilder/World_Trade_Center.jpg">
+            </a>
+            
+        </div>
+
+        <a class="last" onclick="plusSlides(-1)">❮</a>
+        <a class="neste" onclick="plusSlides(1)">❯</a>
+
+        <div class="tekst">
+            <p id="teksten"></p>
+        </div>
+
+        <div class="rad">
+            <div class="kolonne">
+                <img class="demo cursor" src="Bilder/russland.jpg" style="width:100%" onclick="currentSlide(1)" alt="St. petersburg">
+            </div>
+            <div class="kolonne">
+                <img class="demo cursor" src="Bilder/romab.jpg" style="width:100%" onclick="currentSlide(2)" alt="Roma">
+            </div>
+            <div class="kolonne">
+                <video class="demo cursor" style="width:100%" onclick="currentSlide(3)" controls="controls" alt="Video">
+                    <source src="Bilder/Romavideo.mp4" type="video/mp4" />
+                </video>
+            </div>
+            <div class="kolonne">
+                <img class="demo cursor" src="Bilder/newyork.jpg" style="width:100%" onclick="currentSlide(4)" alt="New york">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

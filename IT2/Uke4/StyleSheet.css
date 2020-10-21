@@ -1,0 +1,194 @@
+﻿body {
+    margin: 0;
+}
+
+@keyframes tekst {
+    0% {left: 50%; top: 50%; visibility: visible;}
+    50% {left:0; top: 50%;}
+    100% {left: -100%; top: 0;}
+}
+
+@keyframes eks {
+    0% {background-color: red; left: 0; top: 0;}
+    5% {background-color: yellow; left: 30em; top: 0;}
+    10% {background-color: blue; left: 60em; top: 0;}
+    15% {background-color: red; left: 30em; top: 0;}
+    20% {background-color: yellow; left: 0em; top: 0;}
+    25% {background-color: blue; left: 30em; top: 0;}
+    30% {background-color: red; left: 60em; top: 10em;}
+    35% {background-color: yellow; left: 30em; top: 10em;}
+    40% {background-color: blue; left: 0em; top: 10em;}    
+    45% {background-color: red; left: 30em; top: 10em;}    
+    50% {background-color: yellow; left: 60em; top: 10em;}
+    55% {background-color: blue; left: 30em; top: 20em;}
+    60% {background-color: red; left: 0em; top: 20em;}
+    65% {background-color: yellow; left: 30em; top: 20em;}
+    70% {background-color: blue; left: 60em; top: 20em;}
+    75% {background-color: red; left: 30em; top: 20em;}
+    80% {background-color: yellow; left: 0em; top: 30em;}
+    85% {background-color: blue; left: 30em; top: 30em;}
+    90% {background-color: red; left: 60em; top: 30em;}
+    95% {background-color: yellow; left: 30em; top: 30em;}
+    100% {background-color: blue; left: 0em; top: 30em;}
+}
+
+@keyframes eks1 {
+    0% {
+        background-color: red;
+        left: 0;
+        top: 0;
+    }
+
+    5% {
+        background-color: yellow;
+        left: 30em;
+        top: 0;
+    }
+
+    10% {
+        background-color: blue;
+        left: 60em;
+        top: 0;
+    }
+
+    15% {
+        background-color: red;
+        left: 30em;
+        top: 0;
+    }
+
+    20% {
+        background-color: yellow;
+        left: 0em;
+        top: 0;
+    }
+
+    25% {
+        background-color: blue;
+        left: 30em;
+        top: 0;
+    }
+
+    30% {
+        background-color: red;
+        left: 60em;
+        top: 10em;
+    }
+
+    35% {
+        background-color: yellow;
+        left: 30em;
+        top: 10em;
+    }
+
+    40% {
+        background-color: blue;
+        left: 0em;
+        top: 10em;
+    }
+
+    45% {
+        background-color: red;
+        left: 30em;
+        top: 10em;
+    }
+
+    50% {
+        background-color: yellow;
+        left: 60em;
+        top: 10em;
+    }
+
+    55% {
+        background-color: blue;
+        left: 30em;
+        top: 20em;
+    }
+
+    60% {
+        background-color: red;
+        left: 0em;
+        top: 20em;
+    }
+
+    65% {
+        background-color: yellow;
+        left: 30em;
+        top: 20em;
+    }
+
+    70% {
+        background-color: blue;
+        left: 60em;
+        top: 20em;
+    }
+
+    75% {
+        background-color: red;
+        left: 30em;
+        top: 20em;
+    }
+
+    80% {
+        background-color: yellow;
+        left: 0em;
+        top: 30em;
+    }
+
+    85% {
+        background-color: blue;
+        left: 30em;
+        top: 30em;
+    }
+
+    90% {
+        background-color: red;
+        left: 60em;
+        top: 30em;
+    }
+
+    95% {
+        background-color: yellow;
+        left: 30em;
+        top: 30em;
+    }
+
+    100% {
+        background-color: blue;
+        left: 0em;
+        top: 30em;
+    }
+}
+
+.fare {
+    width: 20em;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    animation-name: tekst;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    visibility: hidden;
+}
+
+.test1 {
+    width: 10em;
+    height: 10em;
+    position: relative;
+    animation: eks1 4s infinite;
+    animation-delay: 7s;
+    border-radius: 10em;
+    animation-timing-function: ease-in;
+    animation: reverse;
+}
+
+.test {
+    width: 10em;
+    height: 10em;
+    position: relative;
+    animation: eks 4s infinite;
+    animation-delay: 4s;
+    border-radius: 10em;
+    animation-timing-function: ease-in;
+}

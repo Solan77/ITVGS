@@ -1,0 +1,108 @@
+﻿body {
+    margin: 0;
+
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: #455a64;
+}
+
+    .nav a {
+        width: 23%;
+        margin: auto;
+        padding: 0.6em 0;
+        text-decoration: none;
+        text-align: center;
+        color: #fff;
+        font-size: 1.2em;
+    }
+
+        .nav a:hover {
+            background-color: #718792;
+            color: black;
+        }
+
+.aktiv {
+    background-color: #1c313a;
+}
+
+.boks {
+    width: 70%;
+    margin: 3em auto;
+    padding: 1em 1.5em;
+    color: #fff;
+    background-color: #5f6b7f;
+    border-radius: 0.5em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.bunn {
+    display: block;
+    bottom: 0;
+    margin: 0;
+    margin-top: 30em;
+    padding: 0.01em 0;
+    width: 100%;
+    text-align: center;
+    background-color: #000051;
+    color: #fff;
+}
+.boks1 {
+    width: 750px;
+    height: 411px;
+    margin: 1em auto;
+}
+
+.boks2 {
+    margin: auto;
+    width: 750px;
+}
+
+.bilde {
+    width: 50%;
+    position: absolute;
+    top: 2.9em;
+    left: 18em;
+    animation: snurr linear 10s;
+}
+
+.imgb {
+    width: 45%;
+}
+
+.auto-style1 {
+    width: 70%;
+    margin: 1.5em auto;
+    padding: 2em;
+    border-radius: 2em;
+    border: 0.2em solid black;
+    background-color: #5f6b7f;
+    color: white;
+    font-size: 1.2em;
+}
+
+.auto-style2 {
+    width: 80%;
+    margin: 0.5em auto;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.btn {
+    border: none;
+    background-color: #718792;
+    padding: 0.5em 1em;
+    border-radius: 0.3em;
+}
+
+.bilder {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}

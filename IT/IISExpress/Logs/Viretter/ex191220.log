@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-12-20 18:14:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-20 18:14:34 ::1 GET /Oppgave3.aspx - 58760 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 - 200 0 0 18098
+2019-12-20 18:14:36 ::1 GET /favicon.ico - 58760 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:58760/Oppgave3.aspx 404 0 2 18
+2019-12-20 18:14:48 ::1 POST /Oppgave3.aspx - 58760 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.79+Safari/537.36 http://localhost:58760/Oppgave3.aspx 500 0 0 231

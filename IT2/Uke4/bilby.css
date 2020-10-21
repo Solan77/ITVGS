@@ -1,0 +1,78 @@
+﻿body {
+    overflow: hidden;
+    margin: 0;
+}
+
+.bakgrunn {
+    width: 100%;
+
+}
+
+.bakgrunn img {
+    width: 100%;
+}
+
+.bil {
+    position: absolute;
+    top: 590px;
+    left: 1055px;
+    animation: biltur 5s linear forwards;
+}
+
+@keyframes biltur {
+    0% {
+        transform: translateY(-0px);
+    }
+
+    2% {
+        transform: translateY(-150px);
+    }
+
+    4% {
+        transform: translateY(-250px);
+    }
+
+    6% {
+        transform: translateY(-330px);
+    }
+
+    7% {
+        transform: translateX(-10px) translateY(-345px) rotate(-30deg);
+    }
+
+    8% {
+        transform: translateX(-20px) translateY(-355px) rotate(-60deg);
+    }
+
+    9% {
+        transform: translateX(-23px) translateY(-370px) rotate(-90deg);
+    }
+
+    12% {
+        transform: translateX(-40px) translateY(-370px) rotate(-90deg);
+    }
+
+    20% {
+        transform: translateX(-1000px) translateY(-370px) rotate(-90deg);
+    }
+
+    100% {
+        transform: translateX(100px) translateY(-370px) rotate(90deg);
+    }
+}
+
+.tekst {
+    position: absolute;
+    top: 110%;
+    left: 40%;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    animation: teksten 3s 6s linear forwards;
+}
+
+@keyframes teksten {
+    0% {
+        transform: translateY(-700px) perspective(10deg);
+    }
+}

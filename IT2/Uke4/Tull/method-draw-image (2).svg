@@ -1,0 +1,22 @@
+<svg width="330" height="154" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_1_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="0"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="332" height="156" id="canvas_background" fill="none"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_5" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text fill="#ffffff" stroke-width="7" x="26.007202" y="61.948171" id="svg_1" font-size="84" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.9137699182679015,0,0,1.3383509211938063,-20.10353832583553,9.441838171700127) " stroke="#ffffff" font-weight="bold" font-style="normal" filter="url(#svg_1_blur)">MARVEL</text>
+  <line fill="none" fill-opacity="null" x1="4.904802" y1="104.395402" x2="325.095198" y2="104.919212" id="svg_2" stroke-linejoin="null" stroke-linecap="null" stroke-width="4" transform="rotate(-0.03800060600042343 164.99983215331662,104.65786743164058) " stroke="#ffffff"/>
+  <line fill="none" x1="4.904802" y1="144.395372" x2="325.095198" y2="144.919182" id="svg_3" stroke-linejoin="null" stroke-linecap="null" stroke-width="4" transform="rotate(-0.03800060600042343 164.99983215325352,144.6580657959183) " stroke="#ffffff"/>
+  <text fill="#ffffff" stroke-width="2" x="112.730874" y="87.427494" id="svg_4" font-size="57" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.273939035796792,0,0,0.6732773734165463,-140.00267259577748,79.73813739602997) " stroke="#ffffff">STUDIOS</text>
+ </g>
+</svg>

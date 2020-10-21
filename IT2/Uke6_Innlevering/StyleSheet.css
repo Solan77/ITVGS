@@ -1,0 +1,128 @@
+﻿* {
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+}
+
+.side1 {
+    background-color: #c9dff0;
+}
+
+.side {
+    background-color: #4f5164
+}
+
+.boks {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.tekst {
+    position: absolute;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    transform: perspective(300px) rotateX(20deg);
+    top: 110%;
+    left: 24.8%;
+    animation: 8s tekst linear;
+    animation-play-state: running;
+    font-size: 3em;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+@keyframes tekst {
+    50% {
+        top: 50%;
+    }
+    100% {
+        top: -10%;
+        font-size: 0.5em;
+    }
+}
+
+.rad img {
+    width: 100%;
+}
+
+.rekke {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+
+    .rekke img {
+        opacity: 0.8;
+        cursor: pointer;
+        border: 3em;
+    }
+
+        .rekke img:hover {
+            opacity: 1;
+        }
+
+.rad:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.kon {
+    position: relative;
+    display: none;
+}
+
+#imgtekst {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.lukk {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.boks1 {
+    width: 30%;
+    margin: auto;
+}
+
+.boks2 {
+    width: 65%;
+    margin: auto;
+    text-align: center;
+}
+
+.boks3 {
+    width: 70%;
+    text-align: center;
+    margin: 2.5em auto;
+}
+
+.video {
+    width: 80%;
+}
+
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.logo img {
+    width: 20%;
+    border-bottom-right-radius: 2em;
+}

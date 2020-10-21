@@ -1,0 +1,40 @@
+﻿body {
+    margin: 0;
+    background-image: url('Bilder/landskap.jpg');
+    background-size: 87%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.kropp {
+    position: absolute;
+    top: 200px;
+    left: 560px;
+}
+
+.kropp img {
+    width: 50%;
+}
+
+.molle {
+    width: 40em;
+    position: absolute;
+    top: 198px;
+    left: 562px;
+    animation: rundt 4s linear infinite;
+    transform-origin: 25.2% 42.8%;
+}
+
+.molle img {
+    width: 50%;
+}
+
+@keyframes rundt {
+    50% {
+        transform: rotate(180deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

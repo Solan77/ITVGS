@@ -1,0 +1,78 @@
+﻿body {
+    margin: 0;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: #F48006;
+}
+
+.nav a {
+    width: 30%;
+    margin: auto;
+    padding: 0.8em 0;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 1.4em;
+}
+
+.nav a:hover {
+    background-color: #bb5200;
+    color: #fff;
+}
+
+.aktiv {
+    background-color: #ffb145;
+}
+
+.boks {
+    width: 70%;
+    margin: 3em auto;
+    background-color: #063D68;
+    padding: 1em 1.5em;
+    color: #ffffff;
+    border-radius: 1em;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.bunn {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.ddl {
+    text-align: center;
+    border: none;
+    border-radius: 1em;
+    padding: 0.3em 0.5em;
+    font-size: 1.1em;
+}
+
+.rbl {
+    margin: 0.2em auto;
+    text-align: center;
+}
+
+.txt {
+    width: 10%;
+    border: none;
+    border-radius: 0.5em;
+    padding: 0.3em 0.5em;
+    margin: 0.7em;
+    text-align: center;
+}
+
+.btn {
+    font-size: 1.1em;
+    border: none;
+    border-radius: 0.5em;
+    padding: 0.3em 0.5em;
+}

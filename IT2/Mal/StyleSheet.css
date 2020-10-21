@@ -1,0 +1,55 @@
+﻿body {
+    margin: 0;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: #455a64;
+}
+
+    .nav a {
+        width: 23%;
+        margin: auto;
+        padding: 0.6em 0;
+        text-decoration: none;
+        text-align: center;
+        color: #fff;
+        font-size: 1.2em;
+    }
+
+        .nav a:hover {
+            background-color: #718792;
+            color: black;
+        }
+
+.aktiv {
+    background-color: #1c313a;
+}
+
+.boks {
+    width: 70%;
+    margin: 3em auto;
+    background-color: #5f6b7f;
+    padding: 1em 1.5em;
+    color: #fff;
+    border-radius: 0.5em;
+    text-align: center;
+    font-size: 1em;
+}
+
+.bunn {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    padding: 0.01em 0;
+    width: 100%;
+    text-align: center;
+    background-color: #8d99ae;
+    color: black;
+}
+  

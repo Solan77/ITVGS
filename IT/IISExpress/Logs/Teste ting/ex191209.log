@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-12-09 11:35:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-09 11:35:11 ::1 GET /Cookies.aspx - 50205 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 10534
+2019-12-09 11:35:11 ::1 GET /favicon.ico - 50205 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:50205/Cookies.aspx 404 0 2 5
+2019-12-09 11:35:31 ::1 GET /Radianer.aspx - 50205 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 69
+2019-12-09 11:35:31 ::1 GET /favicon.ico - 50205 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:50205/Radianer.aspx 404 0 2 15
+2019-12-09 11:35:37 ::1 POST /Radianer.aspx - 50205 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:50205/Radianer.aspx 200 0 0 8
+2019-12-09 11:35:44 ::1 POST /Radianer.aspx - 50205 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:50205/Radianer.aspx 200 0 0 8
