@@ -1,0 +1,76 @@
+﻿* {box-sizing: border-box;}
+/* Set a background color */
+body {
+    margin: 0;
+    background-color: #1e1e1e;
+    font-family:Arial;
+}
+table, tr, td {
+        border: 1px solid #1773f2;
+}
+table {
+    border-collapse: collapse;
+    width: 300px;
+}
+.p {
+    font-size: 2em;
+    color: #c8c8c8;
+}
+.overskrift {
+    color: #c8c8c8;
+    padding: 20px;
+    margin-top: 30px;
+    
+}
+.tooverskirft {
+    color: #ff0000;
+    padding: 20px;
+}
+div.boks {
+    background-color: lightgrey;
+    width: 300px;
+    //border: 25px solid green;
+    box-shadow: 0 0 0 10px red, 0 0 0 20px blue;
+    padding: 20px;
+    margin: 80px auto 30px auto;
+    text-align: center;
+    overflow: hidden;
+}
+/* Style the navigation bar */
+.navbar {
+    width: 100%;
+    background-color: #007acc;
+    overflow: auto;
+    top: 0;
+    position: fixed;
+}
+/* Navbar links */
+.navbar a {
+        float: left;
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+        color: white;
+        text-decoration: none;
+        font-size: 17px;
+    }
+/* Navbar links on mouse-over */
+.navbar a:hover {
+            background-color: #279ded;
+        }
+/* Current/active navbar link */
+.navbar a.active {
+            background-color: #1e1e1e;
+            color: white;
+        }
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+@media screen and (max-width: 600px) {
+    .navbar a {
+        float: none;
+        display: block;
+        text-align: left;
+        width: 100%;
+        margin: 0;
+        padding: 14px;
+    }
+}
