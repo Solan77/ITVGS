@@ -1,0 +1,47 @@
+h1	{
+		text-align: center;
+		color:white;
+		border: 5px solid #ffffff;
+		font-size: 50px;
+		
+	
+}
+h2	{
+	
+}
+
+body	{
+		background-color:black;
+	
+}
+p	{
+	color:red;
+	text-align:center;
+	font-size: 30px;
+}	
+a	{
+	
+}	
+
+ul	{
+		color:blue;
+		text-align:center;
+}
+li	{
+		text-align:center;
+}		
+h3	{	
+		color:blue;
+		text-align: center;
+}
+h6	{
+		size: 200px;
+}
+img	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+h4 {
+	font-size: 30px;
+	
+}

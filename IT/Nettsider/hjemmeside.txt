@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<Head>
+	<title> LYN SKI</title>
+<Style>
+body {background-color: rgb(115, 3, 5);}
+</style>
+	</head>
+	<body>
+	<h1>Råeste langrensløper</h1>
+	<p>Ingen er så rå som han guten der
+stor</p>
+	<ul>
+		<li>bilde</li>
+		<li>fakta</li>
+		<li>ski</li>
+		<li>sponsor</li>
+	</ul>
+	<h2>hjemmeside</h2>
+	</body>
+</html>
